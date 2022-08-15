@@ -1,0 +1,15 @@
+C:\c#\dotnet\bai8\bin\Debug\net6.0\bai8.exe
+C:\c#\dotnet\bai8\bin\Debug\net6.0\bai8.deps.json
+C:\c#\dotnet\bai8\bin\Debug\net6.0\bai8.runtimeconfig.json
+C:\c#\dotnet\bai8\bin\Debug\net6.0\bai8.dll
+C:\c#\dotnet\bai8\bin\Debug\net6.0\bai8.pdb
+C:\c#\dotnet\bai8\obj\Debug\net6.0\bai8.csproj.AssemblyReference.cache
+C:\c#\dotnet\bai8\obj\Debug\net6.0\bai8.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\dotnet\bai8\obj\Debug\net6.0\bai8.AssemblyInfoInputs.cache
+C:\c#\dotnet\bai8\obj\Debug\net6.0\bai8.AssemblyInfo.cs
+C:\c#\dotnet\bai8\obj\Debug\net6.0\bai8.csproj.CoreCompileInputs.cache
+C:\c#\dotnet\bai8\obj\Debug\net6.0\bai8.dll
+C:\c#\dotnet\bai8\obj\Debug\net6.0\refint\bai8.dll
+C:\c#\dotnet\bai8\obj\Debug\net6.0\bai8.pdb
+C:\c#\dotnet\bai8\obj\Debug\net6.0\bai8.genruntimeconfig.cache
+C:\c#\dotnet\bai8\obj\Debug\net6.0\ref\bai8.dll
