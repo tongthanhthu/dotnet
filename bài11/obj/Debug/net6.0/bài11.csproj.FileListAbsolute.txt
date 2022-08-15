@@ -1,0 +1,15 @@
+C:\c#\dotnet\bài11\obj\Debug\net6.0\bài11.csproj.AssemblyReference.cache
+C:\c#\dotnet\bài11\obj\Debug\net6.0\bài11.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\dotnet\bài11\obj\Debug\net6.0\bài11.AssemblyInfoInputs.cache
+C:\c#\dotnet\bài11\obj\Debug\net6.0\bài11.AssemblyInfo.cs
+C:\c#\dotnet\bài11\obj\Debug\net6.0\bài11.csproj.CoreCompileInputs.cache
+C:\c#\dotnet\bài11\bin\Debug\net6.0\bài11.exe
+C:\c#\dotnet\bài11\bin\Debug\net6.0\bài11.deps.json
+C:\c#\dotnet\bài11\bin\Debug\net6.0\bài11.runtimeconfig.json
+C:\c#\dotnet\bài11\bin\Debug\net6.0\bài11.dll
+C:\c#\dotnet\bài11\bin\Debug\net6.0\bài11.pdb
+C:\c#\dotnet\bài11\obj\Debug\net6.0\bài11.dll
+C:\c#\dotnet\bài11\obj\Debug\net6.0\refint\bài11.dll
+C:\c#\dotnet\bài11\obj\Debug\net6.0\bài11.pdb
+C:\c#\dotnet\bài11\obj\Debug\net6.0\bài11.genruntimeconfig.cache
+C:\c#\dotnet\bài11\obj\Debug\net6.0\ref\bài11.dll
