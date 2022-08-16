@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace String {
+namespace bai19 {
     class Program {
         static void Main(string[] args) {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
