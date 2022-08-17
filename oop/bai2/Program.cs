@@ -19,19 +19,25 @@ namespace bai2
             double[] tcm = new double[n];
             for(int i=0;i<n;i++){
                 sv.nhapthongtin(i);
-                m[i]=sv.ma;
-                ht[i]=sv.hoten;
-                ns[i]=sv.ngaysinh;
-                t[i]=sv.toan;
-                v[i]=sv.van;
-                a[i]=sv.anh;
-                tcm[i] =sv.tongdiem();
+                m[i] = sv.ma;
+                ht[i] = sv.hoten;
+                ns[i] = sv.ngaythang;
+                t[i] = sv.toan;
+                v[i] = sv.van;
+                a[i] = sv.anh;
+                tcm[i] = sv.tongdiem();
             }
+            double sum = 0;
+            Console.WriteLine($"thông tin sinh viên có tổng điểm trên 1 là :");
             for(int j=0;j<n;j++){
-                double lol = tcm[i];
-                if(tcm>1){
-                Console.WriteLine(m[j]);
-                Console.WriteLine(t[j]);
+                 sum = tcm[j];
+                if(sum > 1){
+                
+                Console.Write($"sinh viên thứ {j+=1}");
+                Console.Write($" mã sinh viên = ");
+                Console.Write($" {m[j]} ");
+                Console.Write($" tên sinh viên :");
+                Console.Write(t[j]);
                 }
             }
 
