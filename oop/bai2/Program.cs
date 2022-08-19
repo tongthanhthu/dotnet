@@ -71,7 +71,7 @@ namespace bai2
         Console.WriteLine("nhập điểm anh ");
         this.anh =Convert.ToDouble(Console.ReadLine());
 
-       }
+    }
        public double tongdiem(){
           double tong = 0 ;
           tong = this.van + this.toan + this.anh;
