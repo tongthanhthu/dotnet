@@ -16,9 +16,7 @@ namespace bai2
                 sv.nhapthongtin(i);
 
             }
-            double sum = 0;
-            Console.WriteLine($"thông tin sinh viên có tổng điểm trên 1 là :");
-            Console.WriteLine("thí sinh có tổng điểm trên 1 là:");
+            Console.WriteLine($"danh sách sinh viên có tổng điểm trên 1 :");
             sv.tongdiem(sv.getStudent());
 
         }
@@ -63,12 +61,18 @@ namespace bai2
     }
         public void tongdiem(List<Candidate> student){
             double tong = 0;
+            Console.WriteLine("{0, -5} {1, -10} {2, -5}",
+                  "ma", "Name", "ngaythang");
             foreach (Candidate sv in student)
             {
                tong = sv.van + sv.anh + sv.toan;
                if(tong>0){
                 Console.WriteLine("{0, -5} {1, -10} {2, -5}",
                 sv.ma, sv.hoten, sv.ngaythang);
+               }
+               else{
+                Console.WriteLine("không có thí sinh nào tổng điểm trên 1");
+
                }
             }
 
